@@ -56,7 +56,7 @@ li:hover {
     transform: rotate(-15deg);  
 }
 
-li a:hover {
+li .logo:hover {
     font-size: 2.2rem;
     transition: .3s;
 }
@@ -110,7 +110,7 @@ li a:hover {
 #plats {
     margin-top: 5vh;
     text-align: center;
-    height: 100vh;
+    height: 100%;
     width: 95%;
     margin-left: auto;
     margin-right: auto;
@@ -182,8 +182,29 @@ li a:hover {
 .plat button:hover {
     background-color: rgb(148, 148, 246);
 }
-
-
-
-
 /* ---------------------PLATS-------------------- */
+
+/* ---------------------RESERVER-------------------- */
+#reserver {
+    margin-top: 5vh;
+    text-align: center;
+    height: 100vh;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(41, 146, 202, 0.5);
+}
+
+
+
+/* ---------------------RESERVER-------------------- */
+
+/* ---------------------FOOTER-------------------- */
+footer {
+    margin-top: 5vh;
+    text-align: center;
+    height: 20vh;
+    width: 100%;
+    background-color: rgba(41, 146, 202, 0.5);
+}
+/* ---------------------FOOTER-------------------- */
