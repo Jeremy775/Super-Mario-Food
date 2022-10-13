@@ -117,7 +117,7 @@ li .logo:hover {
     background-color: rgba(41, 146, 202, 0.5);
 }
 
-#plats h2 {
+h2 {
     padding: 20px;
     font-family: 'MarioLuigi2', sans-serif;
     color: rgb(253, 200, 24);
@@ -198,6 +198,10 @@ li .logo:hover {
 
 
 /* ---------------------RESERVER-------------------- */
+
+/* ---------------------CONTACT-------------------- */
+
+/* ---------------------CONTACT-------------------- */
 
 /* ---------------------FOOTER-------------------- */
 footer {
