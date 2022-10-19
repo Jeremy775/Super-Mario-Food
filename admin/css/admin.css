@@ -1,0 +1,14 @@
+.admin_container table {
+    width: 100%;
+}
+
+.admin_container table tr th {
+    border-bottom: 1px solid black;
+}
+
+.admin_container {
+    color: red;
+    background-color: blue;
+    height: 300px;
+    width: 234px;
+}
