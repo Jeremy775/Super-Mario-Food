@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>SMF - Page d'administration</title>
-        <link rel="stylesheet" href="../css/admin.css">
+        <link rel="stylesheet" href="../css/admin_style.css">
     </head>
 
     <body>
