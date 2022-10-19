@@ -12,9 +12,9 @@
             </tr>
 
             <tr>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>1</td>
+                <td>Ouais</td>
+                <td>Supprimer editer machin</td>
             </tr>
         </table>
     </div>
