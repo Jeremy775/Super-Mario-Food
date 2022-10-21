@@ -7,7 +7,7 @@
     <body>
         <div>
             <div>
-                <ul>
+                <ul id="admin_nav">
                     <li><a href="index.php">Accueil</a></li>
                     <li><a href="manage_admin.php">Administrateurs</a></li>
                     <li><a href="manage_category.php">Catégories</a></li>
